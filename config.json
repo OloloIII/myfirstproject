@@ -1,0 +1,10 @@
+{
+    "CHECK_INTERVAL": 600,
+    "RESPONSE_TIME": 120,
+    "TARGET_WORD": "\u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0430",
+    "SERVER_URL": "http://192.168.0.146:5000",
+    "USER_ID": 1,
+    "MACHINE_ID": "komp1",
+    "LOG_LOCALLY": true,
+    "LOG_TO_SERVER": true
+}
